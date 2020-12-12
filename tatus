@@ -1,0 +1,3013 @@
+[33mcommit bf354d63d5ab1ddff3865306e861f2f7c86b648d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: alishan kazemzadeh <sms.kazemzadeh@gmail.com>
+Date:   Sat Dec 12 16:22:48 2020 -0500
+
+    add bbb file
+
+[33mcommit 89ca28f5a42eedd03eae56536ac410faff8f38d7[m
+Author: kazemzaehm <sms.kazemzadeh@gmail.com>
+Date:   Sat Dec 12 16:19:29 2020 -0500
+
+    delete extra files
+
+[33mcommit c3e846c25ccf9c6245decbd38a3503ce46b56d82[m
+Author: kazemzaehm <sms.kazemzadeh@gmail.com>
+Date:   Sat Dec 12 16:15:50 2020 -0500
+
+    files
+
+[33mcommit 1b9b081838f593810633ccf1ccf19366e2e8083d[m
+Author: kazemzaehm <sms.kazemzadeh@gmail.com>
+Date:   Sat Dec 12 16:14:22 2020 -0500
+
+    test
+
+[33mcommit b3174061c083f04e21492b8fa25513b7e830aaba[m
+Author: kazemzaehm <sms.kazemzadeh@gmail.com>
+Date:   Sat Dec 12 16:13:52 2020 -0500
+
+    deleted f file
+
+[33mcommit 1f8bf3ac2779e9b1931108f213b9edb5ff1b8204[m
+Author: kazemzaehm <sms.kazemzadeh@gmail.com>
+Date:   Sat Dec 12 16:09:00 2020 -0500
+
+    salam
+
+[33mcommit 8c249d8fd70654973419669e811c22f9d4233d89[m
+Author: kazemzaehm <sms.kazemzadeh@gmail.com>
+Date:   Sat Dec 12 16:07:27 2020 -0500
+
+    dsdlsd
+
+[33mcommit 3ca32c91bfe2c18607a9079018f0939aede8246c[m
+Author: kazemzaehm <sms.kazemzadeh@gmail.com>
+Date:   Sat Dec 12 15:31:07 2020 -0500
+
+    this it
+    my commit
+    to check
+    how it works
+
+[33mcommit c9cff4beaebbfc197d01d0c50454d2cfb3c203a0[m
+Author: kazemzaehm <sms.kazemzadeh@gmail.com>
+Date:   Sat Dec 12 15:26:09 2020 -0500
+
+    cfile
+
+[33mcommit a668464059a0307690dc467296eb0fb02c032f44[m
+Author: kazemzaehm <sms.kazemzadeh@gmail.com>
+Date:   Sat Dec 12 15:21:06 2020 -0500
+
+    alishan
+
+[33mcommit 214d34abb38b7c9367c333ca0f11796b62824a0c[m
+Author: kazemzaehm <sms.kazemzadeh@gmail.com>
+Date:   Sat Dec 12 15:12:51 2020 -0500
+
+    second salam
+
+[33mcommit caa3d7b5cfdb90ceaba482b8a4ec3b0d24497fd3[m
+Author: kazemzaehm <sms.kazemzadeh@gmail.com>
+Date:   Sat Dec 12 15:11:37 2020 -0500
+
+    salam
+
+[33mcommit 028f7f965c4db13879e9050f4e7725c8fd7654ae[m
+Author: kazemzaehm <sms.kazemzadeh@gmail.com>
+Date:   Sat Dec 12 14:55:35 2020 -0500
+
+    remove a and b
+
+[33mcommit 2c2cdc38eb75a5c3ebdf78a19c9d1983287223cc[m
+Author: kazemzaehm <sms.kazemzadeh@gmail.com>
+Date:   Sat Dec 12 14:55:01 2020 -0500
+
+     add a and b
+
+[33mcommit 29aac4ca405c1acd2bb5586421b57dad475a4941[m
+Author: kazemzaehm <sms.kazemzadeh@gmail.com>
+Date:   Sat Dec 12 14:54:06 2020 -0500
+
+    Delete file a and b
+
+[33mcommit e3217dbc51051bd04ff44ed7d2aa02dec26fb3f9[m
+Author: kazemzaehm <sms.kazemzadeh@gmail.com>
+Date:   Sat Dec 12 14:52:10 2020 -0500
+
+    salam
+
+[33mcommit 20a75d1259e91c8add849ff7dde1c483c21430ee[m
+Author: kazemzaehm <sms.kazemzadeh@gmail.com>
+Date:   Sat Dec 12 14:48:00 2020 -0500
+
+     add 2 file a and b
+
+[33mcommit ef262f25d88d2e8bff7c6997c38ac72e204e8c9d[m
+Author: kazemzaehm <sms.kazemzadeh@gmail.com>
+Date:   Sat Dec 12 14:33:14 2020 -0500
+
+    I added my name
+
+[33mcommit a09cbf541fd3824f4d1cbd93878e63d3b4025d58[m
+Merge: 60ed75e 3fa8559
+Author: KK <38712160+K2-KK@users.noreply.github.com>
+Date:   Wed Oct 28 08:58:47 2020 +0530
+
+    Merge pull request #187 from bronson/patch-1
+    
+    Fix typo: body text accidentally caught in a block
+
+[33mcommit 3fa8559cba1d807ac276a90b74988f29eff5a081[m
+Author: Scott Bronson <brons_github@rinspin.com>
+Date:   Tue Oct 27 07:34:06 2020 -0700
+
+    Fix typo: body text accidentally caught in a block
+
+[33mcommit 60ed75eb07bf05e0bd611376ae92ccf41ec287c9[m
+Merge: 9bfec71 772d486
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Fri Oct 16 21:57:43 2020 -0400
+
+    Merge pull request #184 from msadofschi/patch-1
+    
+    easier etcd restore
+
+[33mcommit 772d4869ae8f5fb8aa09e9552f7ad04eb600a4b8[m
+Author: Martin <46542697+msadofschi@users.noreply.github.com>
+Date:   Fri Oct 16 20:51:56 2020 +0200
+
+    remove name of restore
+
+[33mcommit 97a3701560c05b899f55e472789cabf4bc6bc08a[m
+Author: Martin <46542697+msadofschi@users.noreply.github.com>
+Date:   Fri Oct 16 20:04:50 2020 +0200
+
+    easier etcd restore
+    
+    By just restoring the etcd to one dir using --data-dir and then changing the volumes.hostPath.path of etcd-data, it just works, no need to use the all the --initial* .
+    Also updated etcd version.
+
+[33mcommit 9bfec71666b9f7df6eab99a7ee202455349b0316[m
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Sun Oct 11 18:34:55 2020 -0400
+
+    Update etcd-backup-and-restore.md
+
+[33mcommit 9ea063f1dc2df5e6b16c9c02eb560fdf65b66b68[m
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Thu Jun 18 00:00:32 2020 -0400
+
+    Update 16-e2e-tests.md
+
+[33mcommit 23f1ae5cbd594fc5d2bc53c307b2f273bd0cf609[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Tue Jun 16 09:01:22 2020 +0800
+
+    Update README.md
+
+[33mcommit a5ab87c5023167b7f5a0d6ebc76528e6da3f0983[m
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Thu Jun 4 10:37:45 2020 -0400
+
+    add missing =
+
+[33mcommit a6211e8f649409c91d33730849e8aa50491425d1[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Tue May 19 04:24:37 2020 +0800
+
+    Update verify-certificates.md
+
+[33mcommit 6d8accd7858ee25d5a741608af8361be273a0f3d[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Tue May 19 04:20:31 2020 +0800
+
+    Update verify-certificates.md
+
+[33mcommit c7d1f0a19e8cfc27362c6b7c2abbae87321a5b95[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Tue May 19 04:16:20 2020 +0800
+
+    Update 09-bootstrapping-kubernetes-workers.md
+
+[33mcommit e7878a2d6ccf9f651330e697e42f56f8879ce337[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Tue May 19 04:16:04 2020 +0800
+
+    Update 09-bootstrapping-kubernetes-workers.md
+
+[33mcommit c8a8aaccce936718df1cb8c16b0f3ce265479088[m
+Merge: 6cb552e e9db375
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Tue May 19 04:10:11 2020 +0800
+
+    Merge pull request #131 from sujiar37/master
+    
+    updated docs - certificate verification
+
+[33mcommit e9db375e4c51afe97b49b6a6b987c52e4c4466ce[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Tue May 19 00:31:51 2020 +0530
+
+    updated docs - certificate verification
+
+[33mcommit 6cb552e03b3339906eb4686d2a17eb34d2abee28[m
+Merge: d9a947b 91b205f
+Author: KK <38712160+K2-KK@users.noreply.github.com>
+Date:   Mon May 18 06:08:07 2020 +0530
+
+    Merge pull request #50 from b10s/patch-4
+    
+    Update 05-kubernetes-configuration-files.md
+    
+    Thanks for your inputs @b10s .
+
+[33mcommit d9a947b75317073d30527cd18b51b2ba84f38da9[m
+Author: KK <38712160+K2-KK@users.noreply.github.com>
+Date:   Mon May 18 05:59:49 2020 +0530
+
+    Added a note to login to loadbalancer instance
+
+[33mcommit 53e57b6339df14a9cb1fdabd232f71683be46cfb[m
+Merge: 85f58ac b1c7cf9
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Mon May 18 05:27:17 2020 +0800
+
+    Merge pull request #129 from sujiar37/master
+    
+    Certificate verification script - Master & Worker-1 Node
+
+[33mcommit b1c7cf9cecfa7a0eee8b56f7f0f6301c1421e03c[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Sun May 17 15:29:56 2020 +0530
+
+    kcm & ks kubeconfig - path fix
+
+[33mcommit 85f58acdbc426b5ac9f3f3a9e7f6fe39b0880e22[m
+Author: KK <38712160+K2-KK@users.noreply.github.com>
+Date:   Sat May 16 12:14:13 2020 +0530
+
+    Update 08-bootstrapping-kubernetes-controllers.md
+
+[33mcommit ad51d1bb58daabda6d792bed7c418ba8c562b412[m
+Author: KK <38712160+K2-KK@users.noreply.github.com>
+Date:   Sat May 16 12:08:49 2020 +0530
+
+    Update 08-bootstrapping-kubernetes-controllers.md
+
+[33mcommit 49579afaa04392cf4d9760e848f37d700c73d7c3[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Sun May 10 14:40:31 2020 +0530
+
+    kube-proxy config skip master2
+
+[33mcommit a4db3dbf137ae65468a8f641ad67b50466857153[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Thu May 7 14:09:41 2020 +0530
+
+    worker-1 cert validation with github links
+
+[33mcommit 337932989ad63717a06c9db54d4a7c3244699ae8[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Thu May 7 13:10:50 2020 +0530
+
+    master cert validation with github links
+
+[33mcommit 7847fd097275b89ea7b3878953d28632a2ff32fb[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Thu May 7 00:13:07 2020 +0530
+
+    color output printf
+
+[33mcommit 76fb7350f13dead1ca94388d4c76ac1f294a2526[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Wed May 6 23:07:53 2020 +0530
+
+    master 2 skipped checks combined
+
+[33mcommit ff55dafcad653358bb7e473f1bf6f92897220258[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Wed May 6 15:53:31 2020 +0530
+
+    skip admin crt - master2
+
+[33mcommit 23801b3006b475551b76b957c4da2586242844b0[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Wed May 6 11:40:14 2020 +0530
+
+    cert_verify.sh - vagrant home
+
+[33mcommit 853fb56269dcb7b52ad4d34873d348ff4fc41c90[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Wed May 6 11:11:07 2020 +0530
+
+    tiny tweaks
+
+[33mcommit 225f1aec8a8c1d08d51ac073a88c6d6e8cd5ed41[m
+Merge: 6e15417 7595ca0
+Author: KK <38712160+K2-KK@users.noreply.github.com>
+Date:   Tue Apr 28 16:25:23 2020 +0530
+
+    Merge pull request #92 from bpeatman/patch-1
+    
+    Update README.md
+
+[33mcommit d34d9075d88bc32272ac641854df3ac68cb0ad0a[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Tue Apr 28 13:36:52 2020 +0530
+
+    case interactive - cert verify
+
+[33mcommit 4900dd558feb8d797237c04606089b8ad9f173c6[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Tue Apr 28 13:11:13 2020 +0530
+
+    master and worker1 node certificate verification
+
+[33mcommit 24438edbbf13e06c74d83dc518d1e31e7b477413[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Tue Apr 28 12:56:27 2020 +0530
+
+    check_cert_worker_1_kp - kubeproxy
+
+[33mcommit f00dbbece51936c8319e1cbeb481885622494a29[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Tue Apr 28 12:24:17 2020 +0530
+
+    WORKER_1_KUBELET kubelet
+
+[33mcommit 5c996d39d2f5c51ba0d3ed0d7a11b7c2dd7a5a33[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Tue Apr 28 12:14:49 2020 +0530
+
+    worker 1 cert path
+
+[33mcommit a9559c1ed2ff4773b15418650a008f7b236dd514[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Tue Apr 28 11:34:46 2020 +0530
+
+    check_cert_worker_1_kubelet systemd
+
+[33mcommit 188c278c00f597023060ac5eb1e7743579197fbb[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Tue Apr 28 09:31:15 2020 +0530
+
+    check_cert_worker_1_kubeconfig
+
+[33mcommit 74fb28b009ed6b48f1b6ab7ee6744150568ae366[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Tue Apr 28 01:05:42 2020 +0530
+
+    worker1 node crt check
+
+[33mcommit 118243245014d0149b50f41e9354586abdcec7fd[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Tue Apr 28 00:06:07 2020 +0530
+
+    fix kp to ks
+
+[33mcommit 6e15417eebe263af337b75083e8c1f38b99f6b57[m
+Merge: 5fb24c2 bae6047
+Author: KK <38712160+K2-KK@users.noreply.github.com>
+Date:   Sun Apr 26 13:15:47 2020 +0530
+
+    Merge pull request #93 from anuj53/patch-1
+    
+    Fix Typo Error. Thanks @anuj53
+
+[33mcommit 5fb24c204698d8798c559874ad204dc5236d98ed[m
+Merge: 9b4e78e 50e9a6b
+Author: KK <38712160+K2-KK@users.noreply.github.com>
+Date:   Sun Apr 26 13:11:55 2020 +0530
+
+    Merge pull request #94 from MarcPaquette/patch-1
+    
+    Fixing typo. Thanks @MarcPaquette
+
+[33mcommit 567847397b4ac76d1d741e20330a13eecb6826be[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Sun Apr 26 11:06:11 2020 +0530
+
+    changes from kk
+
+[33mcommit dc51d1bcf3733edde10a882ed929b21ce4a96a98[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Sat Apr 25 17:32:16 2020 +0530
+
+    cert verification - master node
+
+[33mcommit 5409a1c6da8cddd52e311a839c6e2142cf3eb747[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Sat Apr 25 15:48:55 2020 +0530
+
+    check_systemd_api
+
+[33mcommit c0f71699bdd8facaa22e4c239822147f7beb78f3[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Sat Apr 25 14:24:21 2020 +0530
+
+    check_systemd_etcd verification
+
+[33mcommit 61333adf32a48a0914a1a2eb7c823fdf861bc923[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Fri Apr 24 23:32:00 2020 +0530
+
+    kubeconfig server details
+
+[33mcommit 84b8c9d5890a765f15b8c62322c0ede0c997415f[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Fri Apr 24 23:13:43 2020 +0530
+
+    kubeconfig verification
+
+[33mcommit ae74aa62c67487a9ff53ccb2daa6d7b6e1dd0190[m
+Author: Sujith Abdul Rahim <sujiar37@gmail.com>
+Date:   Sun Apr 19 12:00:53 2020 +0530
+
+    cert verify initial commit
+
+[33mcommit 9b4e78e68efe7be3e87c51553ccaa9c37ee63a52[m
+Merge: 3cc6714 48c554c
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Wed Apr 15 16:19:41 2020 -0400
+
+    Merge pull request #87 from jibsonline/patch-1
+    
+    Disable RANDFILE to avoid missing '.rnd' file error
+
+[33mcommit 3cc6714b08add60df867ae4f90807136e7801aa3[m
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Sat Apr 11 19:00:00 2020 -0400
+
+    Update 09-bootstrapping-kubernetes-workers.md
+
+[33mcommit d568b12ab1ecbf707b2482999899773fd9c2c4ae[m
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Sat Apr 11 18:58:59 2020 -0400
+
+    Update 09-bootstrapping-kubernetes-workers.md
+
+[33mcommit ca99534f3d17723290bc1fa826bc89f5591472b3[m
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Mon Feb 24 10:42:04 2020 -0500
+
+    Update Vagrantfile
+
+[33mcommit b1df9d8d8de4a3fdf82fe1e07c2533a283edc5b3[m
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Mon Feb 24 10:41:22 2020 -0500
+
+    Create install-docker-2.sh
+
+[33mcommit 50e9a6bb87832978a381a3d462d2bd98cecb9014[m
+Author: Marc Paquette <marc.philip.paquette@gmail.com>
+Date:   Fri Feb 21 10:35:13 2020 -0500
+
+    Fixing typo
+
+[33mcommit bae604742933b16fecdfa50ddbb9a66a37625c42[m
+Author: Anuj Upadhyay <59619947+anuj53@users.noreply.github.com>
+Date:   Thu Feb 20 23:47:36 2020 +0530
+
+    Typo Error
+    
+    Updated typo error
+
+[33mcommit 7595ca0e200a66f7b0c9abb408f97f7764782e19[m
+Author: Robert E. Peatman <bpeatman@rentpath.com>
+Date:   Tue Feb 11 16:19:41 2020 -0500
+
+    Update README.md
+
+[33mcommit 48c554c4ba683c2ea94b95d692474215e03baa49[m
+Author: Jibu Chacko <jibsonline@gmail.com>
+Date:   Wed Jan 22 12:51:45 2020 +0530
+
+    Disable RANDFILE to avoid missing '.rnd' file error
+    
+    ```vagrant@master-1:~$ openssl req -new -key ca.key -subj "/CN=KUBERNETES-CA" -out ca.csr
+    Can't load /home/vagrant/.rnd into RNG
+    140179099013568:error:2406F079:random number generator:RAND_load_file:Cannot open file:../crypto/rand/randfile.c:88:Filename=/home/vagrant/.rnd```
+
+[33mcommit cda5011f254895b1534b1dde0f17b3896dfbd863[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Mon Dec 9 22:23:37 2019 +0800
+
+    Update 10-tls-bootstrapping-kubernetes-workers.md
+
+[33mcommit 8d3311a507b746d68f3fc3ef48337d4b884ac816[m
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Tue Dec 3 10:08:20 2019 -0500
+
+    Update tls-bootstrap-worker-node-2.md
+
+[33mcommit 44a4016264f2771f2e89fcfa509fe329d3774594[m
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Mon Dec 2 21:06:52 2019 -0500
+
+    Update tls-bootstrap-worker-node-2.md
+
+[33mcommit 0e0c7f22aa0a7a00b4d545cf1356d67aec0732c7[m
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Sun Dec 1 11:37:43 2019 -0500
+
+    Update tls-bootstrap-worker-node-2.md
+
+[33mcommit c0f656627c7acc648542f8aff003d9e3e9c177d8[m
+Merge: a476652 286326c
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Tue Nov 19 19:50:39 2019 -0500
+
+    Merge pull request #57 from rahulsoni43/patch-4
+    
+    Update 09-bootstrapping-kubernetes-workers.md
+
+[33mcommit a4766523e72e958cbc04a655e67199e31c1249b9[m
+Merge: dc967fe 3d8f65d
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Tue Nov 19 19:50:13 2019 -0500
+
+    Merge pull request #58 from rahulsoni43/patch-5
+    
+    Update 08-bootstrapping-kubernetes-controllers.md
+
+[33mcommit dc967fefa1978d35177c67f54fa4ef38b93383b7[m
+Merge: 33ea383 afb4496
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Tue Nov 19 19:47:25 2019 -0500
+
+    Merge pull request #59 from rahulsoni43/patch-6
+    
+    Update 10-tls-bootstrapping-kubernetes-workers.md
+
+[33mcommit 33ea383145083b7f13c6ed8fe6d9f2c3e6ef24c8[m
+Merge: 23e46d9 6366d32
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Tue Nov 19 19:45:42 2019 -0500
+
+    Merge pull request #60 from rahulsoni43/patch-8
+    
+    Update 12-configure-pod-networking.md
+
+[33mcommit 23e46d9ca23ee2e6eb6b10788a7c29211f246a59[m
+Merge: 18b7408 4af6d2b
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Tue Nov 19 19:44:23 2019 -0500
+
+    Merge pull request #61 from rahulsoni43/patch-9
+    
+    Update 13-kube-apiserver-to-kubelet.md
+
+[33mcommit 18b7408078040a5bec51f638587490f0a47de158[m
+Merge: c1b7247 8e439d0
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Tue Nov 19 19:41:36 2019 -0500
+
+    Merge pull request #56 from rahulsoni43/patch-3
+    
+    Update 07-bootstrapping-etcd.md
+
+[33mcommit c1b7247ab0cf5f22f04155d55c5f1997f5f6afd4[m
+Merge: e9abc24 146b373
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Tue Nov 19 19:40:28 2019 -0500
+
+    Merge pull request #55 from rahulsoni43/patch-2
+    
+    Update 06-data-encryption-keys.md
+
+[33mcommit e9abc242b676de602f87b6a28419083790846d0d[m
+Merge: a44dccf 1eeea67
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Tue Nov 19 19:38:26 2019 -0500
+
+    Merge pull request #64 from lzecca78/05-reference-docs
+    
+    05 - added reference docs for each manifest
+
+[33mcommit a44dccffc6a3b1129db3169203b1e9fbc6e3c4b1[m
+Merge: b1d56c4 78d7091
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Tue Nov 19 19:26:43 2019 -0500
+
+    Merge pull request #62 from rahulsoni43/patch-10
+    
+    Update 14-dns-addon.md
+
+[33mcommit b1d56c465963ba40ecfeb03f0885ce946540501b[m
+Merge: 5767f56 9ddca7a
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Tue Nov 19 19:25:23 2019 -0500
+
+    Merge pull request #65 from lzecca78/11-reference-docs
+    
+    11- added reference doc for kubectl config
+
+[33mcommit 5767f5613f5cafdf32b53d4392d63283d8fad244[m
+Merge: 4fe0ff1 af502da
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Tue Nov 19 19:24:00 2019 -0500
+
+    Merge pull request #54 from rahulsoni43/patch-1
+    
+    Update 04-certificate-authority.md
+
+[33mcommit 9ddca7a62dc09eb1348b9ea28bcfa1313eec19fe[m
+Author: Luca Zecca <l.zecca78@gmail.com>
+Date:   Tue Nov 19 11:31:48 2019 +0100
+
+    added reference doc for kubectl config
+
+[33mcommit 1eeea677aabf2a2b5a09eed01f1dc34a53fc9266[m
+Author: Luca Zecca <l.zecca78@gmail.com>
+Date:   Tue Nov 19 11:22:52 2019 +0100
+
+    added reference docs for each manifest
+
+[33mcommit 78d7091e2f7b82e3c8aca92c773b0e0c2c407647[m
+Author: rahulsoni43 <41282873+rahulsoni43@users.noreply.github.com>
+Date:   Tue Nov 19 10:19:29 2019 +0530
+
+    Update 14-dns-addon.md
+    
+    Adding resources for coredns from kubernetes.io
+
+[33mcommit 4af6d2bbf302cc83f6e52afb164e385891d11026[m
+Author: rahulsoni43 <41282873+rahulsoni43@users.noreply.github.com>
+Date:   Tue Nov 19 10:13:57 2019 +0530
+
+    Update 13-kube-apiserver-to-kubelet.md
+    
+    Adding refernce for cluster role and cluster bindings from kubernetes.io
+
+[33mcommit 6366d3236cad2679bf4de801f3846b3b9f5aea09[m
+Author: rahulsoni43 <41282873+rahulsoni43@users.noreply.github.com>
+Date:   Tue Nov 19 10:09:53 2019 +0530
+
+    Update 12-configure-pod-networking.md
+    
+    Add network reference to kubernetes.io
+
+[33mcommit afb44965c6dcb96570e63445a3177d2bb34cd472[m
+Author: rahulsoni43 <41282873+rahulsoni43@users.noreply.github.com>
+Date:   Tue Nov 19 09:53:30 2019 +0530
+
+    Update 10-tls-bootstrapping-kubernetes-workers.md
+    
+    Adding reference for the specified resource from kubernetes.io
+
+[33mcommit 3d8f65d14138ad0a4f72232e0e187bd77c19cc00[m
+Author: rahulsoni43 <41282873+rahulsoni43@users.noreply.github.com>
+Date:   Tue Nov 19 09:44:21 2019 +0530
+
+    Update 08-bootstrapping-kubernetes-controllers.md
+    
+    Adding control plan binaries reference from kubernetes.io
+
+[33mcommit 286326cb8066cf21f91d83dd8d7e99c5a41588bb[m
+Author: rahulsoni43 <41282873+rahulsoni43@users.noreply.github.com>
+Date:   Tue Nov 19 09:38:01 2019 +0530
+
+    Update 09-bootstrapping-kubernetes-workers.md
+    
+    Adding reference for node binaries from kubernetes.io
+
+[33mcommit 8e439d00e626d3ce564978c7a22e1ddd0f04db67[m
+Author: rahulsoni43 <41282873+rahulsoni43@users.noreply.github.com>
+Date:   Tue Nov 19 09:27:45 2019 +0530
+
+    Update 07-bootstrapping-etcd.md
+    
+    Adding a referene for starting etcd to kubernetes.io
+
+[33mcommit 146b373f276d65e4e3ace8fd81d22622ccada128[m
+Author: rahulsoni43 <41282873+rahulsoni43@users.noreply.github.com>
+Date:   Tue Nov 19 09:19:09 2019 +0530
+
+    Update 06-data-encryption-keys.md
+    
+    Adding reference to encrypting-data to kubernetes.io
+
+[33mcommit af502dac9dd50aa236a1d56b5b718a4b6ef76b78[m
+Author: rahulsoni43 <41282873+rahulsoni43@users.noreply.github.com>
+Date:   Tue Nov 19 09:15:08 2019 +0530
+
+    Update 04-certificate-authority.md
+    
+    Adding reference to the official kubernetes.io.
+
+[33mcommit 4fe0ff1921875a5c799d989bf29d91dfb12a44fa[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Mon Nov 18 15:45:04 2019 -0800
+
+    Update 03-client-tools.md
+
+[33mcommit 91b205f5b4dde0ccc01ef565624ba4ecd43b0891[m
+Author: Enshin Andrey <b10s@users.noreply.github.com>
+Date:   Mon Nov 11 13:05:19 2019 +0900
+
+    Update 05-kubernetes-configuration-files.md
+
+[33mcommit f6d90a644b4ab67a20f8fa2f1a66fc807b5862e2[m
+Merge: 1f4cac2 8681322
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Sun Nov 10 16:42:48 2019 -0500
+
+    Merge pull request #48 from b10s/patch-2
+    
+    Update 02-compute-resources.md
+
+[33mcommit 868132271bcd55abe83626d808711bf3f72ee803[m
+Author: Enshin Andrey <b10s@users.noreply.github.com>
+Date:   Fri Nov 8 13:38:21 2019 +0900
+
+    Update 02-compute-resources.md
+
+[33mcommit 1f4cac2c6335c5a7497dde64d7a20e3b9d30eae2[m
+Merge: e29cd72 c2d80b9
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Fri Nov 8 00:13:49 2019 +0800
+
+    Merge pull request #47 from vpalazhi/patch-1
+    
+    fixed cert path in the answer
+
+[33mcommit c2d80b9b73a313ee6337bbf13b839e0e5b72dde5[m
+Author: vpalazhi <32654249+vpalazhi@users.noreply.github.com>
+Date:   Thu Nov 7 11:11:46 2019 -0500
+
+    fixed cert path in the answer
+
+[33mcommit e29cd72810a04235b179d80a1224a36b1ef8e800[m
+Merge: 1851ae6 3fd44c2
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Mon Nov 4 08:25:30 2019 +0800
+
+    Merge pull request #45 from sudhirrs/patch-1
+    
+    Fix interactive input requested in setup
+
+[33mcommit 1851ae620cf3aa6212c042ef93c03dc37369683b[m
+Merge: 4517cb9 848e549
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Mon Nov 4 08:23:18 2019 +0800
+
+    Merge pull request #44 from BjoernT/systemd-kubletsvc
+    
+    Start kubelet in systemd cgroup mode
+
+[33mcommit 3fd44c2832633a7bc9f0020fd77e113f0cd6d7ef[m
+Author: Sudhir <sudhirrs@gmail.com>
+Date:   Sun Nov 3 20:31:14 2019 +0530
+
+    Fix interactive input requested in setup
+    
+    When docker-ce is installed it brings up an interactive prompt and in mac terminal it cannot be responded to and the setup as a result gets stuck.
+
+[33mcommit 848e5490f8f200e7114e5fe04e6e6b5d6adb9b17[m
+Author: Bjoern Teipel <bjoern.teipel@rackspace.com>
+Date:   Mon Oct 28 11:32:10 2019 -0500
+
+    Start kubelet in systemd cgroup mode
+    
+    Start kubelet in systemd cgroup mode to match newer docker versions
+
+[33mcommit 4517cb99c69621b44fdb9310614e80a7c15962c3[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Mon Oct 21 10:13:18 2019 +0800
+
+    Update README.md
+
+[33mcommit c635c235acf233806293d97b10af2288eb56f57f[m
+Merge: 2b209bb 245f697
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Fri Oct 11 12:24:23 2019 +0800
+
+    Merge pull request #39 from tamilavi/patch-1
+    
+    Update 02-compute-resources.md
+
+[33mcommit 245f6975984f20dd92878f8b7038c375ec498afd[m
+Author: Tamil Vanan <42203005+tamilavi@users.noreply.github.com>
+Date:   Tue Oct 8 00:07:02 2019 +0530
+
+    Update 02-compute-resources.md
+
+[33mcommit 2b209bb3733e6d5cad9117e7da258d1b033ec466[m
+Merge: eb93ba0 98de45a
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Wed Oct 2 12:54:18 2019 +0800
+
+    Merge pull request #36 from marceline-git/develop
+    
+    fixing typo for Generate
+
+[33mcommit 98de45adea579069f6226b545927caa080110334[m
+Author: marceline-git <yukihira.lab@gmail.com>
+Date:   Tue Oct 1 20:05:32 2019 +0100
+
+    fixing typo for Generate
+
+[33mcommit eb93ba04fef6ab31fe4a6063676d0080d13ba336[m
+Merge: 358fd23 75dcd10
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Fri Aug 23 22:47:47 2019 +0800
+
+    Merge pull request #29 from leejones/patch-1
+    
+    Update description of etcd cluster size
+
+[33mcommit 75dcd10526ba54775c752c93566b2e4062c634c7[m
+Author: Lee Jones <leejones@users.noreply.github.com>
+Date:   Fri Aug 23 09:41:27 2019 -0500
+
+    Update description of etcd cluster size
+
+[33mcommit 358fd23331f139031e87a69271e3820873b27d99[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Sat Aug 10 18:00:24 2019 +0800
+
+    Update 08-bootstrapping-kubernetes-controllers.md
+
+[33mcommit 28c9198e62b4192781d241019efd45d3d4b0a2b4[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Tue Jul 9 11:07:18 2019 +0800
+
+    Update tls-bootstrap-worker-node-2.md
+
+[33mcommit 3217c93b20a772f715db6e4e8255fff6e0d26980[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Tue Jul 9 11:03:52 2019 +0800
+
+    Update tls-bootstrap-worker-node-2.md
+
+[33mcommit e5265e57f01280154b1ae5f6ca7d1b2ff1d1f2e1[m
+Merge: 58374f3 7a03616
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Tue Jul 9 10:54:49 2019 +0800
+
+    Merge pull request #20 from cesarsaez/master
+    
+    typo on VM name and environment verification
+
+[33mcommit 7a03616e9cf4d4ea0e22d396cf87e717b573e93b[m
+Author: cesarsaez <krizio@gmail.com>
+Date:   Fri Jun 21 19:35:12 2019 +0200
+
+    typo on VM name and environment verification
+
+[33mcommit 58374f33ab1bb2e4f02227d55a8a789e58643400[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Wed Jun 19 11:09:19 2019 +0800
+
+    Update 04-certificate-authority.md
+
+[33mcommit dcb0ec7c92d7e023bd0cacf7d2b69c106255b953[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Wed Jun 19 11:07:24 2019 +0800
+
+    Update 05-kubernetes-configuration-files.md
+
+[33mcommit 96fba941f35e2fa1b3f10484d8427d7949a60c3a[m
+Merge: dc3e980 c4cb78b
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Sun Jun 16 16:36:33 2019 +0530
+
+    Merge pull request #15 from vikas027/fix-doco
+    
+    Node should be in NotReady status (Line 62-63)
+
+[33mcommit c4cb78ba560d1d9499096ff0c6b90070d4c0933a[m
+Author: Vikas Kumar <vikas@reachvikas.com>
+Date:   Sun Jun 16 19:53:30 2019 +1000
+
+    Node should be in NotReady status (Line 62-63)
+    
+    Nodes will come into ready state once networking is configured
+
+[33mcommit dc3e9807df1ec25108525372b189d5fe079ed1c6[m
+Merge: d1da31c 083ca14
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Sun Jun 16 09:43:24 2019 +0530
+
+    Merge pull request #13 from vinshetty/patch-2
+    
+    Node should not be ready status (line 399-400)
+
+[33mcommit 083ca14899de47e3e6f53fc3a80b4f49c27f91fd[m
+Author: vinshetty <vinayshetty.kr@gmail.com>
+Date:   Tue Jun 11 12:57:15 2019 +0530
+
+    Node should not be ready status (line 399-400)
+    
+    As still CNI has not configured the node's status will  NotReady
+
+[33mcommit d1da31c299ba6b2c045c401d7021e8af1deb62de[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Fri May 24 21:37:16 2019 +0800
+
+    Fix IP address of worker node
+
+[33mcommit 30360020ea402a1f087ae7e20f5a2a8c96b142a7[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Sun May 12 20:14:05 2019 +0800
+
+    Add files via upload
+
+[33mcommit eb455ee64b63d79d185c00bdc520f9ec45f5d2e4[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Sun May 12 19:48:05 2019 +0800
+
+    Create README.md
+
+[33mcommit 61d0c690adc1e80d3dd531944a3c86417426e267[m
+Merge: 127e243 acdbca8
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Sat May 4 14:09:47 2019 +0800
+
+    Merge pull request #4 from srikanth787/patch-3
+    
+    Need to restart haproxy
+
+[33mcommit 127e24373189d13a69a40a26905b40a986b8c393[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Fri May 3 13:38:25 2019 +0800
+
+    re-organize folder structure
+
+[33mcommit fe3dadd7c5070055de2e3f1ea7b0ef43200bb1de[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Fri May 3 13:27:15 2019 +0800
+
+    re-organize folder structure
+
+[33mcommit 64bb241728a018fa307c554324e1b48e0cb250e8[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Fri May 3 13:22:48 2019 +0800
+
+    re-organize folder structure
+
+[33mcommit fb089ce9687455ae1381f5eb996a91edf423b6ff[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Fri May 3 13:15:29 2019 +0800
+
+    re-organize folder structure
+
+[33mcommit 781918fdca2a64433fc3322d2afb293f6fc30b65[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Fri May 3 12:54:32 2019 +0800
+
+    Update README.md
+
+[33mcommit 587438e61d8e28873b7b780bafbf363d24a6728b[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Fri May 3 12:44:31 2019 +0800
+
+    Update etcd-backup-and-restore.md
+
+[33mcommit 185bf108355fd3de673ac8e0d531b4dc503d4f5b[m
+Merge: 56220b8 cb928d9
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Tue Apr 30 10:34:23 2019 +0800
+
+    Merge pull request #3 from srikanth787/patch-2
+    
+    Fix link
+
+[33mcommit acdbca88306aadbce13e553f555c2c673217ca9e[m
+Author: vishnu <vishnu0908@gmail.com>
+Date:   Mon Apr 29 18:12:09 2019 -0700
+
+    Need to restart haproxy
+
+[33mcommit cb928d9d58aaa53c65ed3a2b762a763b05f99db9[m
+Author: vishnu <vishnu0908@gmail.com>
+Date:   Mon Apr 29 15:48:31 2019 -0700
+
+    Fix link
+
+[33mcommit 56220b80eb3d41b19b8e002e3b2c1ae820398d35[m
+Merge: 550fc87 45d8ad2
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Mon Apr 29 12:19:03 2019 +0800
+
+    Merge pull request #2 from srikanth787/patch-1
+    
+    command is git not github
+
+[33mcommit 45d8ad262ea74f03aaffe2e2d07c5b08c45e464c[m
+Author: vishnu <vishnu0908@gmail.com>
+Date:   Sun Apr 28 20:57:14 2019 -0700
+
+    command is git not github
+
+[33mcommit 550fc8746894ccf200759824d2f26d1410891099[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Sat Apr 27 21:14:00 2019 +0800
+
+    Extend certificate validity
+
+[33mcommit b6254faefdce9666d7e7bd9073509a13b2a7e6da[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Sat Apr 27 20:56:39 2019 +0800
+
+    Extend certificate validity date
+
+[33mcommit dca34c3a49d4282a148f1682b35118413b2ffcfa[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Sat Apr 13 12:35:58 2019 +0800
+
+    Create README.md
+
+[33mcommit 85acf39f84c085d1754a3e874a917a490b57c98d[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Sat Apr 13 12:35:29 2019 +0800
+
+    Create tls-bootstrap-worker-node-2.md
+
+[33mcommit a95eb6d8b8e2c0d9a2576819f664fa5e353c37a3[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Sat Apr 13 12:35:01 2019 +0800
+
+    Create etcd-backup-and-restore.md
+
+[33mcommit 702eda1a2496b17e67d8043ededa9a9d66c9ac1b[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Mon Apr 1 15:57:31 2019 +0800
+
+    Update README.md
+
+[33mcommit 4a0af74ce221f003210ca652eeff3f021671b0ac[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Mon Apr 1 15:57:19 2019 +0800
+
+    Update README.md
+
+[33mcommit f9bcc726b4bfc80aef6bed480cb470b64ad1a972[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Mon Apr 1 15:56:09 2019 +0800
+
+    Update README.md
+
+[33mcommit de2cd0d01066021f9d6d7f03860172d9519e02b0[m
+Author: Mumshad Mannambeth <mmumshad@gmail.com>
+Date:   Mon Mar 25 18:13:46 2019 +0800
+
+    Update 02-compute-resources.md
+
+[33mcommit 5fb37eab409f13c4375f72e42fb47d0983087d9a[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 22:35:47 2019 +0800
+
+    Minor Update
+
+[33mcommit 1212007d54a477861f459c07319bac238b3d5c69[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 18:24:32 2019 +0800
+
+    minor updates
+
+[33mcommit 7ed632a08cde6e946d6212ab1056e4e232206467[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 18:12:49 2019 +0800
+
+    Fix links
+    Update Smoke Tests
+
+[33mcommit 0d94436f035504762741c22f87328b5b3eff2e0d[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 17:44:09 2019 +0800
+
+    minor updates
+
+[33mcommit c61a841a7135ed9f173df9c9a4af4a5a19d3e450[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 17:42:40 2019 +0800
+
+    minor updates
+
+[33mcommit 106fa0bca63a28912f09576cc2de674e38112ad2[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 17:28:07 2019 +0800
+
+    Update to use coredns.yaml
+
+[33mcommit 1d4ff3fc0e4b2ff3a08fb45fcfec3d4b069398bd[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 17:27:44 2019 +0800
+
+    Add coredns.yaml
+
+[33mcommit c9fe0a55d9c1f9e865f856ed2ac154ca793cf327[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 17:22:12 2019 +0800
+
+    minor updates
+
+[33mcommit f9562559fbc2045f9a1c9a1d739d15f6af2cde4d[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 17:21:34 2019 +0800
+
+    update file path to github
+
+[33mcommit ee2896ea04f28af9b9bb6aabfe3a06b403dc0829[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 17:20:28 2019 +0800
+
+    Minor updates
+
+[33mcommit e07e0c341f7da34e9c3c8c9a4d1164f4bcae49b2[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 16:49:48 2019 +0800
+
+    minor updates
+
+[33mcommit 1403074b777e159250b6216d5cf7381c7af2e36e[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 16:49:09 2019 +0800
+
+    minor updates
+
+[33mcommit 333ff226cc77e416a13fa675b02bba4071b90d4c[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 16:48:31 2019 +0800
+
+    Minor updates
+
+[33mcommit fd48b3ba9fd041837c6d72b557631952cac98c29[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 16:40:53 2019 +0800
+
+    minor updates
+
+[33mcommit 2b3f620fa61b9fb129103bba1c70e928ae655eb6[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 16:20:54 2019 +0800
+
+    Minor updates
+
+[33mcommit 0314df6de8295ca5dfa7c4af37f7f84217d06d23[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 16:17:51 2019 +0800
+
+    minor updates
+
+[33mcommit d027254144bd41288480483867528dece24a2561[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 16:04:22 2019 +0800
+
+    minor updates
+
+[33mcommit d30f6cdffdebbfe99efed9b016fc697d349fdc40[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 15:49:52 2019 +0800
+
+    minor update
+
+[33mcommit 5113e9413f7ece5872308928ac6d06303497c47c[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 15:35:02 2019 +0800
+
+    minor updates
+
+[33mcommit 27620baa5b09534b358d94649b5ca24b874b1342[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 15:25:38 2019 +0800
+
+    minor updates
+
+[33mcommit 28bd5c62f85a4645ce79808253ae3eea5181fade[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 14:52:05 2019 +0800
+
+    minor updates
+
+[33mcommit 95b93427039ee3fd55e75fd3dcebf768365f1851[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 13:21:04 2019 +0800
+
+    few fixes
+
+[33mcommit 117d415d9ae20f205b8f8b28325af539687e5acc[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 12:37:38 2019 +0800
+
+    Fix link in readme
+
+[33mcommit 2434ca7bc68e734ba2ef911b905c02ad9b73a4d9[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 12:36:23 2019 +0800
+
+    Delete .idea folder
+
+[33mcommit 22ae1a2ffc65c8bb1959723f9afa83a18a77090a[m
+Author: Mumshad <mmumshad@gmail.com>
+Date:   Wed Mar 20 12:34:49 2019 +0800
+
+    kubernetes-the-hard-way-on-vagrant
+
+[33mcommit bf2850974e19c118d04fdc0809ce2ae8a0026a27[m[33m ([m[1;33mtag: 1.12.0[m[33m)[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 30 19:35:05 2018 +0000
+
+    Update to Kubernetes 1.12.0 and add CoreDNS support
+
+[33mcommit b974042d95c491aceed3374ac3f76f04bd3f98ed[m[33m ([m[1;33mtag: 1.10.2[m[33m)[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat May 12 16:54:18 2018 +0000
+
+    Update to Kubernetes 1.10.2 and add gVisor support
+
+[33mcommit 4f5cecb5eda99eabac44ce6b6bb0a9c1a4be8122[m
+Author: Daniel J. Pritchett <dpritchett@gmail.com>
+Date:   Tue Jan 30 09:29:40 2018 -0600
+
+    Add brief contribution guide
+
+[33mcommit 68ebb95898f47532ec0c020ae82a1556df713827[m
+Author: Martin Mosegaard Amdisen <martin.amdisen@praqma.com>
+Date:   Fri Jan 5 14:53:09 2018 +0100
+
+    Fix minor typo in lab 14
+
+[33mcommit 8db0280ef6d311b1f4f23e6bab16019c3af7aaac[m
+Author: Mark Vincze <mrk.vincze@gmail.com>
+Date:   Thu Jan 4 15:27:37 2018 +0100
+
+    Fix small typo
+
+[33mcommit a5c83f1cee8c3f23acb57f435fdd206a6b6a3a50[m
+Author: Andrew Thompson <admin@entercloud.info>
+Date:   Tue Jan 2 07:58:42 2018 -0500
+
+    Argument syntax for Filter deprecated.
+    
+    Operator evaluation is changing for consistency across Google APIs.
+
+[33mcommit e2dbdaa66bf3a0f7c7e3ef0d879ca2376838c0c9[m
+Author: githubixx <home@tauceti.net>
+Date:   Sun Jan 7 19:34:52 2018 +0100
+
+    core workload api incl. Deployment now stable
+
+[33mcommit 05ca2d04cfe6e162f6a2f708eb1126169f449819[m
+Author: Andrew Lytvynov <lytvynov.a.v@gmail.com>
+Date:   Fri Jan 12 11:34:42 2018 -0800
+
+    Correct kubectl output for kube-dns pod list
+    
+    https://storage.googleapis.com/kubernetes-the-hard-way/kube-dns.yaml will create 1 kube-dns pod without autoscaler.
+    This may confuse the reader.
+
+[33mcommit f46642a6bab8c955aa22da142aa7c8339d9077b4[m
+Author: Phil Estes <estesp@gmail.com>
+Date:   Thu Jan 18 15:34:11 2018 -0500
+
+    Update cri-containerd location and release
+    
+    cri-containerd project is moving as a sub-project of containerd itself;
+    the GitHub migration is complete. Also, as of 9 Jan, the beta.1 release
+    of cri-containerd is available so the download link is updated.
+    
+    Signed-off-by: Phil Estes <estesp@gmail.com>
+
+[33mcommit 63ff9932d92ad97a7db7fb4c1a87adc693a8eafb[m[33m ([m[1;33mtag: 1.9.0[m[33m)[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Mon Dec 18 07:20:15 2017 -0800
+
+    update kubelet flags
+
+[33mcommit af9f6d71fcf9effdd5c0a5f869134b4ba5439464[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Mon Dec 18 07:07:54 2017 -0800
+
+    update kubernetes GitHub location
+
+[33mcommit 2c78297922403d303841088582770c55c7a41f25[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Mon Dec 18 06:58:00 2017 -0800
+
+    rename to Google Kubernetes Engine
+
+[33mcommit 07aae4fb4523a76edbe4326a3af140d4ffcf016e[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Mon Dec 18 06:53:32 2017 -0800
+
+    update to kubernetes 1.9
+
+[33mcommit e8d728d0162ebcdf951464caa8be3a5b156eb463[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Mon Oct 2 06:48:09 2017 -0700
+
+    remove remote access to insecure port
+
+[33mcommit 765c1fb5faf9a61cfe786445b52b22afa52d5dac[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Mon Oct 2 06:46:01 2017 -0700
+
+    remove remote access to insecure port
+
+[33mcommit ede3437ee84f9c0f54f2785b71c5d5aa09e36a9b[m[33m ([m[1;33mtag: 1.8.0[m[33m)[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Oct 1 20:37:09 2017 -0700
+
+    update to kubernetes 1.8
+
+[33mcommit 7f7fd71874eb4ceeef315fb9e7308a10dd36efef[m
+Author: Steven Trescinski <trescst@gmail.com>
+Date:   Fri Sep 15 16:48:41 2017 +0200
+
+    Fixed '--service-cluster-ip-range' subnet for Controller Manager
+
+[33mcommit 51e8709080020ee175edef2770bc88629f7f1756[m
+Author: Kalimar Maia <kmaia@customink.com>
+Date:   Fri Sep 22 16:15:39 2017 -0400
+
+    Instructions for having a default configuration.
+
+[33mcommit 92772d2f69810afcb6f1ff61389a706c961cd6b4[m
+Author: Frank Ederveen <frank@crystalconsulting.eu>
+Date:   Mon Sep 25 20:01:11 2017 +0100
+
+    226: use curl for OSX downloads
+
+[33mcommit b7550ca7ab611a1ec399d75abcfdb771b5cacf31[m
+Author: Leonardo Faoro <lfaoro@me.com>
+Date:   Sun Sep 3 23:22:14 2017 +0200
+
+    remove trailing space
+
+[33mcommit 444127856114700ba4450eac9d7d7db21787995c[m
+Author: Leonardo Faoro <lfaoro@me.com>
+Date:   Sun Sep 3 23:18:03 2017 +0200
+
+    remove trailing-spaces and blank lines
+
+[33mcommit 4ca7c4504612d55d9c42c21632ca4f4a0e9b4a52[m[33m ([m[1;33mtag: 1.7.4[m[33m)[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Mon Aug 28 14:19:25 2017 -0700
+
+    update docs
+
+[33mcommit f9486b081f8f54dd63a891463f0b0e783d084307[m
+Author: Niko Virtala <nikovirtala@users.noreply.github.com>
+Date:   Mon Aug 7 14:15:10 2017 +0300
+
+    fix KUBERNETES_PUBLIC_ADDRESS value
+    
+    Instead of 'value(address)' 'value(name)' should be used to make the following forwarding-rules creation command to work. With 'value(address)' it returns an error: "ERROR: (gcloud.compute.forwarding-rules.create) Could not fetch resource: - The resource 'projects/some-random-project/regions/us-central1/addresses/w.x.y.z' was not found"
+
+[33mcommit 7631b261fbd93b8d13c82c056378df3e27fb95ee[m
+Author: Adriaan de Jonge <adriaandejonge@gmail.com>
+Date:   Wed Jul 12 20:26:07 2017 +0400
+
+    Update kubectl to 1.7.0
+
+[33mcommit dc5fc105593134eca9c2db850a439fb97c9d9c58[m
+Author: Emilian Losneanu <mercer.traieste@gmail.com>
+Date:   Tue Jul 18 15:43:01 2017 +0300
+
+    Update docker.com url
+
+[33mcommit 6609858e6771d6f4256ca937b1aa152f05d8505c[m
+Author: Abraham Ingersoll <aberoham@users.noreply.github.com>
+Date:   Sun Jul 2 10:26:48 2017 -0500
+
+    Enable kubectl portfw on workers, fixes #78
+
+[33mcommit 4d442675ba44c418be02709f61f192b09c4babc9[m
+Author: David Ross <technoross@fastmail.com>
+Date:   Tue Jul 11 14:01:19 2017 -0500
+
+    Update 05-kubernetes-controller.md
+    
+    there is a bug in Kubernetes 1.6.1 that causes an error when validating the kubernetes environment and etcd.  (https://github.com/kubernetes/kubernetes/pull/39716)   I found that using the 1.7.0 version I did not get this error.  Affects the README, this file and the client configuration (moving to 1.7.0 to match)
+
+[33mcommit adaa9fb620f4e23ace110ba34d98ebd38bbab20c[m
+Author: David Ross <technoross@fastmail.com>
+Date:   Tue Jul 11 14:07:58 2017 -0500
+
+    Update README.md
+    
+    as per my other two requests, the 1.6.1 Kubernetes had a defect that was corrected in 1.7.0.  I ran your code seamlessly using 1.7.0 today.
+
+[33mcommit 0f826cf4366cfb5649bec0b25ff43dba19a036d7[m
+Author: David Ross <technoross@fastmail.com>
+Date:   Tue Jul 11 14:05:57 2017 -0500
+
+    Update 07-kubectl.md
+    
+    as per my other pull request, using 1.7.0 fixes an error with etcd configuration on the Kubernetes cluster.
+
+[33mcommit 87c066265297a5e46cc8e37c176d6960e5f50672[m
+Author: Glenn Oppegard <oppegard@gmail.com>
+Date:   Tue Jul 11 19:42:13 2017 -0600
+
+    Grammar fix for 06-kubernetes-worker.md
+
+[33mcommit 239f1438ae4ad56dc0f14b5d1ebff1dde4741123[m
+Author: Christian Koep <christiankoep@gmail.com>
+Date:   Mon Jun 12 12:10:40 2017 +0200
+
+    Update README to reflect Kubernetes 1.6.1 update
+
+[33mcommit bdeab26587b2679d96e361a9047ae32babe08532[m
+Author: Ádám Sándor <adam-sandor@users.noreply.github.com>
+Date:   Fri Jun 30 16:18:42 2017 +0200
+
+    Add missing additional IP range in firewall validation output
+
+[33mcommit 4749e604a3e9fee19c4313dd0cc5aaf3f33ef656[m
+Author: Luis Buriola <gburiola@gmail.com>
+Date:   Tue May 2 16:45:15 2017 +0100
+
+    Update range for health check
+    
+    This new IP range is listed on the following docs:
+    
+    https://cloud.google.com/compute/docs/load-balancing/health-checks
+    https://cloud.google.com/compute/docs/load-balancing/http/
+
+[33mcommit bf66a605859a89434676aab3652550bab3e55237[m
+Author: Tennis Smith <gamename@users.noreply.github.com>
+Date:   Wed May 3 13:48:05 2017 -0500
+
+    Update 05-kubernetes-controller.md
+    
+    Unless the region is explicitly passed, I get the error:
+    ```
+    ERROR: (gcloud.compute.target-pools.create) Some requests did not succeed:
+     - Invalid value for field 'region': 'us-central1-b'. Unknown region.
+    ```
+
+[33mcommit 2983b28f13b294c6422a5600bb6f14142f5e7a26[m
+Author: Michael McClanahan <michael.j.mcclanahan@gmail.com>
+Date:   Tue May 30 13:47:24 2017 -0500
+
+    Use gcloud compute scp instead of copy-files
+
+[33mcommit 1c5394244297ce71be8606466b901a25a95a5838[m
+Author: Alan Hollis <me@alanhollis.com>
+Date:   Wed Apr 12 15:09:55 2017 +0100
+
+    Bump kubernetes to v1.6.1
+
+[33mcommit 0c37c60b723dec8e824691801bdce081f8ead401[m
+Author: David Castillo <castillobgr@users.noreply.github.com>
+Date:   Fri Apr 28 13:07:48 2017 -0500
+
+    Add missing backslash
+
+[33mcommit 8ce3a545c44c3ab3924d8f28f7e1897231a7de07[m
+Author: David Castillo <castillobgr@gmail.com>
+Date:   Fri Apr 14 10:16:37 2017 -0500
+
+    Update 01-infrastructure-gcp.md, fix #153
+
+[33mcommit 980059ababf3532ee087257cd1da9e51d95bbab2[m
+Author: David Castillo <castillobgr@gmail.com>
+Date:   Fri Apr 14 11:06:58 2017 -0500
+
+    Fix typo in 03-auth-configs.md
+
+[33mcommit 77cc14e86a113ecb18638d3357ec0456b84fa9d3[m
+Author: Rory McCune <raesene@gmail.com>
+Date:   Mon Apr 3 18:59:08 2017 +0100
+
+    Add Authentication to etcd configuration
+    
+    Added two flags needed to activate client and peer authentication in etcd
+
+[33mcommit d81abdbcf1b7b0a1d629760ba85548a6ec7de875[m
+Author: Mads H. Danquah <mads@danquah.dk>
+Date:   Tue Apr 11 06:46:38 2017 +0200
+
+    Move certificate and private-key away from /var/run
+    
+    It is cleared out at reboot.
+    
+    It appears that only the file-name part of --tls-cert-file /
+    --tls-private-key-file is used and that the path is taken from
+    --cert-dir (which defaults to /var/run/kubernetes) so to make the path
+    stick we also add a --cert-dir
+
+[33mcommit c32977f3613498dadfb9b2f1405598e5da4ae169[m
+Author: arjunyel <arjunyel@users.noreply.github.com>
+Date:   Thu Mar 30 02:01:19 2017 -0500
+
+    Update kubectl to 1.6.0 release
+    
+    Kubectl 1.6.0 has now been fully released https://github.com/kubernetes/kubernetes/releases/tag/v1.6.0
+
+[33mcommit 450709e9963d5186dc5ff10bc38f2db54eb510e5[m
+Author: Tom Payne <twpayne@gmail.com>
+Date:   Mon Mar 27 18:02:18 2017 +0200
+
+    fix formatting of bootstrap token generation
+
+[33mcommit 610099af093122b8dea8f1e730636dc7b2d0457a[m
+Author: Jesse Newland <jesse@github.com>
+Date:   Sun Mar 26 21:40:37 2017 -0500
+
+    Remove quotes from audit log, signing key args
+
+[33mcommit e6459ccbd5569720a8e93595b9a54e6a9d35f4b1[m
+Author: Mike Rostermund <mike@kollegienet.dk>
+Date:   Sun Mar 26 22:02:03 2017 +0200
+
+    Fix typo
+
+[33mcommit 69f4ecfa82867c8151335cc1f0389ef752f52a46[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Mar 25 20:23:14 2017 -0700
+
+    clean up formatting
+
+[33mcommit 180596398e01e713fb2dc7752cefee0dcbde96cf[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Mar 25 19:27:49 2017 -0700
+
+    clean up docs
+
+[33mcommit aba84714944a90340667b1ddc85ff8a963f46a88[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Mar 25 19:22:31 2017 -0700
+
+    fix logging link
+
+[33mcommit 4d0647851a0419c7bceb1803fef7a1aedecdfcc3[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Mar 25 19:06:38 2017 -0700
+
+    fix broken link
+
+[33mcommit f49493d2867306840e914b0a8c77779926b1c79f[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Mar 25 18:52:58 2017 -0700
+
+    doc clean up and basic formatting improvements
+
+[33mcommit 8022f4077b6bca9da0126045c53f9e78a5d1633f[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Mar 25 18:06:03 2017 -0700
+
+    remove AWS support
+
+[33mcommit 333aefba3f0e60ee4f80b626950b09e7e02b5be9[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Mar 25 14:22:39 2017 -0700
+
+    remove AWS support
+
+[33mcommit 4989117cf2eedb9c1ca44e24b4b9c90375b9d942[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Mar 25 14:20:31 2017 -0700
+
+    remove AWS support
+
+[33mcommit 818501707e418fc4d6e6aedef8395ca368e3097e[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Mar 25 12:07:21 2017 -0700
+
+    update to Kubernetes 1.6
+
+[33mcommit 2d5f895aac5f1e1e318938a6dff93018fc60bd8a[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Mar 25 12:04:05 2017 -0700
+
+    update to Kubernetes 1.6
+
+[33mcommit 81cc65cc27c1ae22c9e5d82d484d71689c8fc095[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Mar 25 11:53:08 2017 -0700
+
+    update to Kubernetes 1.6
+
+[33mcommit ebe2845c1759df722c86d36a771fc6f879e5af6b[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Mar 25 11:50:26 2017 -0700
+
+    update to Kubernetes 1.6
+
+[33mcommit c01f16bc3e14d823f1e0d57e3dfdd6baa5eff1cd[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Mar 25 11:45:32 2017 -0700
+
+    update to Kubernetes 1.6
+
+[33mcommit f62e9c9777fe08dfe35a31b48f4b92f66c08cd86[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Mar 25 11:41:26 2017 -0700
+
+    update to Kubernetes 1.6
+
+[33mcommit e9c25522a44fa53f518411ba7ff685dfbacc1dc7[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Mar 25 10:07:48 2017 -0700
+
+    update to Kubernetes 1.6
+
+[33mcommit 53ee78b73edd474cab046ff4415d3c3cbdad79ef[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Mar 25 09:58:47 2017 -0700
+
+    update to Kubernetes 1.6
+
+[33mcommit 7e009610b2af4f1eec02569e3c60f5d135b442e1[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Mar 25 09:44:23 2017 -0700
+
+    update for 1.6
+
+[33mcommit 6827ce575e1d4183ca49a804b8ccc19ecc5b8229[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Mar 24 08:31:17 2017 -0700
+
+    make kube-dns work again
+
+[33mcommit c72849f7e3108206d079caca43152f5463784291[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Mar 24 04:24:53 2017 -0700
+
+    document the CSR approve flow
+
+[33mcommit f7532568beea4cbca3177254fb991b791e734773[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Mar 24 04:16:29 2017 -0700
+
+    document the RBAC role binding process for TLS bootstrapping
+
+[33mcommit 94cbe1e683dd523352bcf55cc2d4595f0a8a5c39[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Mar 24 04:08:34 2017 -0700
+
+    add docs on using custom kubeconfigs
+
+[33mcommit 99d342cc3cec7d48ed3975d22f3ef7d4862c9de9[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Mar 23 23:08:54 2017 -0700
+
+    add authentication lab
+
+[33mcommit 5a5314f3c99a2b687c566c0f530607f20b0f5cb6[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Mar 23 19:51:39 2017 -0700
+
+    clean up pod cidr firewall-rule
+
+[33mcommit c77ad0a6ba723b9e16e986f785cf7e2de4c7afcf[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Mar 23 19:48:53 2017 -0700
+
+    use RBAC authz
+
+[33mcommit 3b1700d85e9de1ff6a6f20eb3d01353e8b5810c4[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Mar 23 19:48:14 2017 -0700
+
+    update to Kubernetes 1.6
+
+[33mcommit b7ae204c86b67495985325a77fb1fdb3cab0134d[m
+Author: Balazs Rauznitz <rau.colorado@gmail.com>
+Date:   Wed Nov 2 13:41:52 2016 -0600
+
+    Make the AWS region configurable
+
+[33mcommit 68dc4507c2215face469fd029fb9aaee0532efd3[m
+Author: Jason Price <jprice@pindropsecurity.com>
+Date:   Mon Oct 3 09:36:05 2016 -0400
+
+    adding filter to aws describe-instances command to filter by the vpc-id
+
+[33mcommit 4ad918e7c608efede0fd848ac107df40be4f5303[m
+Author: ksingh7 <karan.singh731987@gmail.com>
+Date:   Sun Jan 8 00:31:31 2017 +0200
+
+    FIX #72 for LoadBalancer creation on AWS
+    
+    kube-controller-manager and kube-apiserver service unit files are missing
+    one option --cloud-provider=aws parameter, which is creating problem while
+    creating ELB on AWS when type: LoadBalancer is provided in service YAML file.
+    This commit fixes that, issue
+
+[33mcommit e465ee81f11387766b2b48f9316b3892471bbf07[m
+Author: ksingh7 <karan.singh731987@gmail.com>
+Date:   Fri Jan 6 00:44:05 2017 +0200
+
+    Node details to run client commands from
+    
+    docs/06.kubectl.md does not instruct from which node those commands must be run.
+    The previous modules does explain that. For a newbie its helpful to tell them
+    from which node they must run commands of doc/06-kubectl.md.
+    
+    This PR has a minor update about that information.
+
+[33mcommit 5c49323835eea86c2167b1948ff0a15c01704206[m
+Author: Javi Polo <javipolo@trovit.com>
+Date:   Tue Nov 22 11:14:52 2016 +0100
+
+    Add permissions to nonresourcepaths to admin and kubelet
+
+[33mcommit 09a5f05eb63d1cdc547cb5f698bc2b53c1078a6e[m
+Author: Noah Dietz <noahdietz24@gmail.com>
+Date:   Wed Oct 12 14:47:40 2016 -0700
+
+    add kubernetes.default to kubernetes-csr.json hosts
+
+[33mcommit d3cd897b08b41c4c1d0a6f072a8c5219c583833a[m
+Author: Ivan Font <ifont@redhat.com>
+Date:   Fri Jan 20 09:32:53 2017 -0800
+
+    Add firewall rule to allow pods access to PodCIDR
+    
+    This fixes issue #88 to allow pods access to PodCIDR such as the case of
+    DNS. When pods come up with an IP address in the cluster CIDR range,
+    they cannot access kubedns without a firewall rule to enable it. This
+    would also prevent pods from accessing each other depending on the
+    application.
+
+[33mcommit a759be0db39649ff8473d3841d572672b86835b2[m
+Author: Justin Santa Barbara <justin@fathomdb.com>
+Date:   Sat Jan 21 13:28:14 2017 -0500
+
+    More nuance in etcd isolation recommendation
+    
+    Clarify that while running etcd on a separate set of machine is a good idea, it isn't tested.
+
+[33mcommit cb6564a0130cb3339ea3e71df1d00338da5dd474[m
+Author: AUG <agabet@octo.com>
+Date:   Sun Mar 5 09:56:21 2017 +0100
+
+    fix kubernetes version number in README
+
+[33mcommit f6e72b50db205d8fc4e314f53770217a0d4ce7aa[m
+Author: Marcelo <marcelosm@gmail.com>
+Date:   Fri Mar 17 10:40:39 2017 -0700
+
+    Updating instance images for Google Cloud Engine
+    
+    Updating to newer images
+
+[33mcommit d53aca31a5bbcbe27c0318cdae01dd691d918950[m
+Author: Valentin Ouvrard <valentin.ouvrard@nautile.sarl>
+Date:   Fri Dec 16 10:47:25 2016 +1100
+
+    upgrade to Kubernetes v1.5.1 and ETCD v3.0.15
+
+[33mcommit fa9972740b3228a17b2c2fa74e51be2fcefa2e7a[m
+Author: ksingh7 <karan.singh731987@gmail.com>
+Date:   Mon Jan 2 01:21:21 2017 +0200
+
+    FIX #111
+    
+    JQ does not work untill output format is JSON. Docs has been fixed
+
+[33mcommit 4d7b87927fe0388ffcdb9b71e75a6ee670c8f488[m
+Author: Danny Kansas <dan@logickc.com>
+Date:   Tue Jan 24 14:54:17 2017 -0600
+
+    TLC => TLS
+
+[33mcommit 753e71bac8bdf2abf15237e8c45be1e6b5e4b380[m
+Author: Chris Jones <christian.jones@sri.com>
+Date:   Sat Oct 29 09:08:29 2016 -0600
+
+    Note that all replicas of a component must share the same certificate.
+
+[33mcommit 26ff21f9d04ee0bb7084cbe57311f3dab08a38f8[m
+Author: Thor Wolpert <thor@wolpert.ca>
+Date:   Fri Nov 4 20:29:58 2016 -0700
+
+    Replaced deprecated flag --health-check with the new equivalent --http-health-check=kube-apiserver-check
+
+[33mcommit 0450e2b3b700208dca6d53e27ee84574f0457384[m
+Author: Chris Kim <christopherjkim@gmail.com>
+Date:   Thu Oct 6 14:39:21 2016 -0400
+
+    update kube-dns add-on from v19 to v20
+
+[33mcommit e7feed75a37f40c745bf0d5d58844e1bad20a5fa[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Mon Oct 3 09:32:17 2016 -0400
+
+    Update 01-infrastructure-gcp.md
+
+[33mcommit bda65211ee2fa6185ff83cd4b4c49bc7cb21eb18[m
+Author: Waldemar Quevedo <wally@apcera.com>
+Date:   Mon Sep 19 14:44:34 2016 -0700
+
+    Update 07-network.md
+
+[33mcommit 5d8a0441ac7cfd84b0efb0fd452849dae1833fab[m
+Author: Joe Intrakamhang <joe_int@hotmail.com>
+Date:   Tue Sep 20 10:42:34 2016 -0500
+
+    Add config/zone cmds to the doc
+
+[33mcommit 0b5282165ac8fd2a789a26d70026987eba8ce10e[m
+Author: keglevich3 <keglevich2@gmail.com>
+Date:   Thu Sep 29 17:38:44 2016 +0300
+
+    remove duplication
+
+[33mcommit 599f45e2b179a3c3ea081fdda78bdfbc5249b693[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Tue Sep 27 06:58:21 2016 -0700
+
+    open traffic between same security group
+
+[33mcommit 6cfc20e96ec0b1c1b02f217306b7fc164415bb1c[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Tue Sep 27 06:23:14 2016 -0700
+
+    update etcd version
+
+[33mcommit f2370f3578ce6e9a1a296d5a857551080b7cc1eb[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Tue Sep 27 05:55:26 2016 -0700
+
+    etcd blocks when using type notify
+
+[33mcommit b748f9d445b2f2ff9dcd6ff17b05f5cd312985a0[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Tue Sep 27 05:50:33 2016 -0700
+
+    install etcd on the controller nodes
+
+[33mcommit 6a39adea4ee9a80eb5743595153a0cc766eb8e71[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Tue Sep 27 05:40:56 2016 -0700
+
+    clean up docs
+
+[33mcommit b3ce3ca14fdf67b7c17e1e8cd1cfa37924d14571[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Tue Sep 27 05:38:09 2016 -0700
+
+    streamline deletion of GCE resources
+
+[33mcommit 4f3f3894685cda738efe832376e54444aca4b4ff[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Tue Sep 27 05:37:22 2016 -0700
+
+    streamline deletion of GCE resources
+
+[33mcommit f1981dad05924bd7b1bb93f967d88716e5b30fab[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Tue Sep 27 05:31:57 2016 -0700
+
+    install etcd on the controller nodes
+
+[33mcommit be84590c870aed9f09984846b72f7df866f0e62a[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Tue Sep 27 05:23:35 2016 -0700
+
+    update to Kubernetes 1.4
+
+[33mcommit 7fe980da3e827f2cdf84ab3139ca0dc911c4b214[m
+Merge: 90367ed 8ec6362
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Sep 15 20:25:32 2016 -0700
+
+    Merge pull request #60 from mydharma/patch-1
+    
+    jq -j is not a valid option. I think the author meant jq -r
+
+[33mcommit 90367ed72c3407c592cbf92802bcd0b6f95d1a9d[m
+Merge: 5d48fa8 720cdab
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Sep 15 20:25:18 2016 -0700
+
+    Merge pull request #61 from thejsj/fix-typo
+    
+    Fix typo
+
+[33mcommit 720cdab53ce9a1421425bfa9dd8559fa0e03ba3c[m
+Author: thejsj <jorge.silva@thejsj.com>
+Date:   Wed Sep 14 22:41:42 2016 -0700
+
+    Fix typo
+
+[33mcommit 8ec636271de62a2d170358ee39240dd49383c557[m
+Author: GGC <gopichaithanya@hotmail.com>
+Date:   Wed Sep 14 19:37:20 2016 -0700
+
+    jq -j is not a valid option. I think the author meant jq -r
+
+[33mcommit 5d48fa8132db6e56c3927964c049c2e5a0a003b4[m
+Merge: e2587a7 87dcab3
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Mon Sep 12 17:02:08 2016 -0700
+
+    Merge pull request #54 from watkinsv-hp/clarify_sections
+    
+    Add Platforms Subheading
+
+[33mcommit 87dcab3644aa7065e1ab5eb00c209fb067dc6797[m
+Author: Watkins <victor.watkins@hp.com>
+Date:   Mon Sep 12 11:57:12 2016 -0600
+
+    Add Platforms Subheading
+    
+    When reading over the Labs subheading, it looked like there were two
+    parts to the labs. This breaks the Labs subheading up into supported
+    Platforms and a list of the Labs.
+
+[33mcommit e2587a74c760fd251d32fa31c4d5cc93578ab6ca[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Mon Sep 12 07:10:34 2016 -0700
+
+    add note that EC2 is supported
+
+[33mcommit f7e0aee5492ab3686aaadb0ffc73e11728751347[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 13:37:41 2016 -0700
+
+    add note regarding production quality
+
+[33mcommit b142aa45506cd515c025920d04dadbf8d100fc6d[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 13:32:24 2016 -0700
+
+    add note regarding production quality
+
+[33mcommit b239d709f791138c71044ab223f51c42df2408ef[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 08:22:09 2016 -0700
+
+    clean up docs
+
+[33mcommit 87ae2e157841143cd65042e323645a14d7e536cb[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 08:20:43 2016 -0700
+
+    update ssh login info
+
+[33mcommit 7e0087411e6345ba92155191b784276582e340da[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 08:02:52 2016 -0700
+
+    document assumptions
+
+[33mcommit d922910910e8e72b226edfb32f02241d729edb48[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 07:59:53 2016 -0700
+
+    document assumptions
+
+[33mcommit 3f648ded7042ccb6053ca455c93ac68845977aef[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 07:54:51 2016 -0700
+
+    add jq requirement
+
+[33mcommit bd07c5e29d2b6df0faa3c9b6103d0c7f5b85d58b[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 07:42:23 2016 -0700
+
+    warn users about GCP free trial limitations
+
+[33mcommit 4f86a72faae4f350ed81c866173eb962aa4e6f57[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 07:33:12 2016 -0700
+
+    add details regarding the auth token
+
+[33mcommit b614d3b2228a19a5845803172a6aeeb5ca0caf78[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 07:31:04 2016 -0700
+
+    add details regarding the auth token
+
+[33mcommit ce7eef3210cdaab1776cbfa06561cbf4662f65d5[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 07:18:44 2016 -0700
+
+    explain how pods get their subnets
+
+[33mcommit 9e05ffafadd28cde9e7e8492eb939252fff43c55[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 07:06:48 2016 -0700
+
+    update cleanup guide
+
+[33mcommit 16cd466518c428ba7a0a4415ad0601cd8280f653[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 07:01:11 2016 -0700
+
+    update kubedns add-on
+
+[33mcommit 608b4e54397a0ef46a73d7dd06da94d43c5efac9[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 06:20:02 2016 -0700
+
+    update kubedns add-on
+
+[33mcommit fdec4174ba4e33a3f69f57af8d8efa337653fa6e[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 06:04:44 2016 -0700
+
+    doc clean up
+
+[33mcommit 60f4cfe453f8aacdb1474be48c3f488e15f8cb69[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 05:30:55 2016 -0700
+
+    add support for aws
+
+[33mcommit 31725f4e5d896bb313398f4dedcebf812e501901[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 05:27:57 2016 -0700
+
+    add support for aws
+
+[33mcommit 649eb76c84029a6043da407e5a9544b87c9a1f99[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 05:20:01 2016 -0700
+
+    add support for aws
+
+[33mcommit 41eae9dbfae2622902d0da6d947b2645e493013e[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 05:11:26 2016 -0700
+
+    add support for aws
+
+[33mcommit e4dc273f971609414b4deca67e1d8204e142c33e[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 05:06:32 2016 -0700
+
+    add support for aws
+
+[33mcommit e6ff289410c1e6a21e27c834ff51627d5f648419[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 04:18:27 2016 -0700
+
+    add support for aws
+
+[33mcommit 4108fda4a852ae7297d09c6397d717fbf5be4772[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 04:08:38 2016 -0700
+
+    add support for aws
+
+[33mcommit 53b9361b821ba19c062dcdd4f8e8c16cb998e3f7[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 03:57:16 2016 -0700
+
+    add support for aws
+
+[33mcommit 7f8de7ce8a48211b2f2f24dcc65a17259e49b79c[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 03:53:13 2016 -0700
+
+    add support for aws
+
+[33mcommit 122e637439eed76ee7d0b5419e4b5b585067cb66[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 03:52:20 2016 -0700
+
+    add support for aws
+
+[33mcommit d182fe64115524cd6315aff7c4370819303a8547[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 03:15:28 2016 -0700
+
+    add support for aws
+
+[33mcommit e9633430d1e490afee2eb1f9611a3ecce86e7bdd[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 03:07:28 2016 -0700
+
+    add support for aws
+
+[33mcommit fbe25cf9296230a720002aa326f58ec64f4f5d46[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 03:02:27 2016 -0700
+
+    add support for aws
+
+[33mcommit 02f4bef7b3c6adcc2341d85dde46a968584bce69[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 02:53:34 2016 -0700
+
+    add support for aws
+
+[33mcommit ed7b9fc2daf84fcc3abadf11a87f3043eafca1e5[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 02:40:34 2016 -0700
+
+    add support for AWS
+
+[33mcommit 5d794d8280db13047cd9685ed9a5eb4a62623143[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Sep 11 01:05:13 2016 -0700
+
+    add support for aws
+
+[33mcommit 1ff872b05be571af97b0f86556042bf2d184140f[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Sep 10 23:34:14 2016 -0700
+
+    add support for aws
+
+[33mcommit 3524ee1236d26c35e3e0901e9de159459fb8ee08[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Sep 10 23:32:40 2016 -0700
+
+    add support for aws
+
+[33mcommit fbb4693b396e1366a0c186283876dbc7bd7b06cf[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Sep 10 23:27:33 2016 -0700
+
+    add support for aws
+
+[33mcommit cd978e0d4ce471ff8fb9cd9417de671177b37790[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Sep 10 23:15:57 2016 -0700
+
+    add support for aws
+
+[33mcommit 447cde9d6985852c59c5063aad214c40730ee800[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Sep 10 23:07:39 2016 -0700
+
+    add support for aws
+
+[33mcommit c884f0a47c34339eedbb81cee9b0ede8a2c9c1fd[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Sep 10 22:57:20 2016 -0700
+
+    add support for aws
+
+[33mcommit 0a524878f1ccbeaaf01ac0f2ceaa72a0b64a73ff[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Sep 10 20:19:45 2016 -0700
+
+    add support for aws
+
+[33mcommit f0fbfe87c490025b8cd61d40cf3e26c0da535af7[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Sep 10 20:00:31 2016 -0700
+
+    add support for aws
+
+[33mcommit 82b3c26a4285297d269a89808d9489029ec221e9[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Sep 10 19:17:55 2016 -0700
+
+    add support for aws
+
+[33mcommit 1a3a32cd71b683c0ac6c78afb0a1f3219ccd1f15[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Sep 10 19:13:17 2016 -0700
+
+    add support for AWS
+
+[33mcommit 5a607d5d111f80538c697cd4747ecd6976f86412[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Sep 10 18:49:06 2016 -0700
+
+    add aws support
+
+[33mcommit 14b5ec9af188833615f2f9274518b6563fed0088[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Sep 10 18:43:53 2016 -0700
+
+    add screenshot
+
+[33mcommit c6feb750a77208bc612ef2624210605a233de77c[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Sep 10 18:39:12 2016 -0700
+
+    add support for aws
+
+[33mcommit b378d7b0b66be7ff6830e4527876860d1b80aab3[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Sep 10 16:31:58 2016 -0700
+
+    add support for aws
+
+[33mcommit 997152b9ee3119ab2a3af39a0fea08c746b1bad8[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Sep 10 16:03:47 2016 -0700
+
+    add support for aws
+
+[33mcommit dc088cc08d74e982f8d3281aad4deb06327ff4b4[m
+Merge: cd019aa 6fb371d
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Aug 26 19:09:36 2016 +0200
+
+    Merge pull request #46 from levackt/master
+    
+    Fixed path to token.csv
+
+[33mcommit 6fb371dca1bdf61ac5bc173bedd28cb4f1e47ae9[m
+Author: Taariq Levack <taariql@gmail.com>
+Date:   Sun Aug 21 11:31:39 2016 +0200
+
+    Fixed path to token.csv
+
+[33mcommit cd019aa31a85ee753569041d57e8be33da93369f[m
+Merge: 1dfd5f2 6b74724
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Tue Jul 12 23:37:00 2016 -0600
+
+    Merge pull request #22 from tsugliani/patch-1
+    
+    Fix links
+
+[33mcommit 6b74724dea36705d76e59f4887f149d8d68dd273[m
+Author: Timo Sugliani <timo.sugliani@gmail.com>
+Date:   Mon Jul 11 19:47:34 2016 +0200
+
+    Fix links
+
+[33mcommit 1dfd5f2376c0c178ccbb7aa4de8372e5739a00d7[m
+Merge: 97af96e 4580779
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Jul 10 08:08:26 2016 -0700
+
+    Merge pull request #20 from lisa/lisa-add_link_to_gcloud
+    
+    Add a link to Google Cloud Platform in Infrastructure doc
+
+[33mcommit 97af96e6265fc436e99711cdfb21c6e59d90b03d[m
+Merge: 2e284a6 89e504f
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sun Jul 10 08:07:54 2016 -0700
+
+    Merge pull request #19 from craigbox/patch-1
+    
+    small branding fix
+
+[33mcommit 45807797dad0602a7b5f7087baae3bc8159f36c0[m
+Author: Lisa Seelye <lisa@thedoh.com>
+Date:   Sun Jul 10 10:36:08 2016 -0400
+
+    Add a link to Google Cloud Platform in Infrastructure doc
+    
+    Some folks may not know precicely where it is without Googling, so let's
+    add a link to save a step.
+
+[33mcommit 89e504fd3f8e101193e556b08518160e6afbb4bc[m
+Author: craigbox <craig.box@gmail.com>
+Date:   Sun Jul 10 15:11:51 2016 +0100
+
+    small branding fix
+
+[33mcommit 2e284a657757185a580c4aebaf961566b544cf4e[m
+Merge: 94b7124 7817e7c
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Jul 9 20:25:45 2016 -0700
+
+    Merge branch 'master' of github.com:kelseyhightower/kubernetes-the-hard-way
+
+[33mcommit 94b71243e91ec0172aec739c1ed9bd78cb89313e[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Jul 9 20:25:37 2016 -0700
+
+    document GCP requirements
+
+[33mcommit 813d6040f615ed4198d61eb8e15ed4ffdc2b26e7[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Jul 9 20:21:52 2016 -0700
+
+    document GCP requirements
+
+[33mcommit 7817e7cf49ace51aa2d67a379435be6233cf7092[m
+Merge: 7b104fd df4d61e
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Jul 9 17:06:57 2016 -0700
+
+    Merge pull request #17 from warrenv/pr/pathname_fix
+    
+    Fix cfssl mv command pathname for linux
+
+[33mcommit df4d61e283c756d411edf1a4c5f6f8c58c7139b7[m
+Author: warren vosper <straydogsw@gmail.com>
+Date:   Sat Jul 9 17:51:32 2016 -0600
+
+    Fix cfssl mv command pathname for linux
+
+[33mcommit 7b104fdcf9932091b12c4a299b292a4b12909d44[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Jul 9 09:31:13 2016 -0700
+
+    add LICENSE file
+
+[33mcommit 1d116cb34e4323fceaab5b1d358cd9fe7dd3193a[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Jul 9 09:28:12 2016 -0700
+
+    update kubernetes controller docs
+
+[33mcommit e9e40ff355c7a8d2812191eaae7084ce98b5eecf[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Jul 9 09:17:18 2016 -0700
+
+    update docs
+
+[33mcommit 13ae7de03cb274aa2caf0f74b89d9366d7639b43[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Jul 9 08:21:35 2016 -0700
+
+    add dns add-on lab
+
+[33mcommit 0c1f22c556cb1154d5d4e7020c0835924797f29a[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Jul 9 08:16:09 2016 -0700
+
+    add dns add-on lab
+
+[33mcommit ec02cebbc81a92c8ee9586701b214bd3cd02d3b8[m
+Merge: 28c807d 985bf01
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Jul 9 01:24:13 2016 -0700
+
+    Merge pull request #13 from elsonrodriguez/skydns
+    
+    Adding skyDNS objects.
+
+[33mcommit 985bf019c8902e1b227c24ac5de1f4f6c2e65f5c[m
+Author: Elson Rodriguez <elson.rodriguez@gmail.com>
+Date:   Sat Jul 9 00:48:08 2016 -0700
+
+    Adding skyDNS objects.
+
+[33mcommit 28c807d98d9229f612687524799d3be37d90e614[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Sat Jul 9 00:15:26 2016 -0700
+
+    clean up docs
+
+[33mcommit 3fa16bfaf53003425f2e661fa38d96078aa495e6[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 21:10:04 2016 -0700
+
+    clean up docs
+
+[33mcommit 0ecdf4fa3dc3ede0b0040dfcf4690c0c8269212a[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 21:09:05 2016 -0700
+
+    clean up docs
+
+[33mcommit 9a9988fa350660c9c5ab860f209f052feb4b768f[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 20:59:01 2016 -0700
+
+    clean up docs
+
+[33mcommit fda0cc8de82f12bd1533a63f09f1a282fc5b6812[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 20:37:57 2016 -0700
+
+    clean up docs
+
+[33mcommit 64df73104360aafc8aa66ecc8cd6065ea3e0575e[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 20:28:42 2016 -0700
+
+    clean up docs
+
+[33mcommit 31e31e32d51feb01141d79cdc75bf83b71e58682[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 18:13:36 2016 -0700
+
+    clean up docs
+
+[33mcommit 6d1cfce433032eb065b8511733ceb983e38955f3[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 17:57:07 2016 -0700
+
+    clean up docs
+
+[33mcommit eafbef2de8f06f25e382af2be9b6926a872c7d53[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 17:47:17 2016 -0700
+
+    clean up docs
+
+[33mcommit 8382283407b5c636b8e9ba2115e352693e4b8abf[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 17:46:16 2016 -0700
+
+    clean up docs
+
+[33mcommit f862a7c8652e2e42eaa1c6455b5cc87a766f4463[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 17:45:22 2016 -0700
+
+    clean up docs
+
+[33mcommit e3ace33fba602791aed83e748aeb22fc089c6855[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 17:37:48 2016 -0700
+
+    clean up docs
+
+[33mcommit d12a9b55acc68ae8644de7c0153197f8bfdf8a98[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 17:36:55 2016 -0700
+
+    clean up docs
+
+[33mcommit b3af2d2e4c76ec07d2a1c7252e6de4a8e23d8b54[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 17:34:25 2016 -0700
+
+    clean up docs
+
+[33mcommit 124ab7bc2c0ef913a3972672c5316e333f1ac707[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 17:33:39 2016 -0700
+
+    clean up docs
+
+[33mcommit bfe0f99a8fee5319befb70db498c06d7cc3852f2[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 17:32:56 2016 -0700
+
+    clean up docs
+
+[33mcommit 7f2713922072a384e5a1f4f90c7d86d60e3acfdf[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 17:32:42 2016 -0700
+
+    clean up docs
+
+[33mcommit 788d4e04bb5ffea9f97d264542fb370e8451f9f0[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 17:26:43 2016 -0700
+
+    clean up docs
+
+[33mcommit 18e5592367bd4476caa0655f3073e066f9d122de[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 17:22:02 2016 -0700
+
+    clean up docs
+
+[33mcommit 2e10c862a16f785eef850dc55c87f4b16da54f10[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 17:16:08 2016 -0700
+
+    clean up docs
+
+[33mcommit 6f87a46e8e7096d905a9c69c246b27eed0dce801[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 17:14:31 2016 -0700
+
+    clean up docs
+
+[33mcommit 79bf7ef48d1e0f9529a66364c256e32d89b83f98[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 17:14:11 2016 -0700
+
+    clean up docs
+
+[33mcommit e59ca5ee73f8dcb39ac1018a96b8199e1b75834d[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 17:10:40 2016 -0700
+
+    clean up docs
+
+[33mcommit 5290cb6ad062af2fe81248ddfb11e450c4e041d1[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 17:09:44 2016 -0700
+
+    clean up docs
+
+[33mcommit d75e3812407489723ee158cd2fb31465e3518da0[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 16:53:55 2016 -0700
+
+    clean up docs
+
+[33mcommit 3989a2efeb9552c7b7e1b565a16457f52340a401[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 16:47:11 2016 -0700
+
+    clean up docs
+
+[33mcommit 6f253cf6ca4e42c10d71a820f53d947b27d25fb8[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 16:46:47 2016 -0700
+
+    clean up docs
+
+[33mcommit 246eaf35c040a6387d5ddd6789cbb1efb9669dbc[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 16:45:43 2016 -0700
+
+    clean up docs
+
+[33mcommit ac33a5e9b8415c2591f1bb9a550dfa435821f925[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 16:43:29 2016 -0700
+
+    order the flags
+
+[33mcommit 15c74672b0d06d88989fd07f19e4ca057ffe9ddf[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 16:35:09 2016 -0700
+
+    update README.md
+
+[33mcommit 86591b80d86e618851665d530059acf69b946cc0[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 16:32:12 2016 -0700
+
+    order the labs
+
+[33mcommit 5989aab31d83ae56fe600ca3663fbd4ae16fb1e0[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 11:40:30 2016 -0700
+
+    update docs
+
+[33mcommit 0a00f13282b671e77024c49a58f73718d0977ab2[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 11:39:58 2016 -0700
+
+    update docs
+
+[33mcommit b6efca670974be7527b4f405a1a6e9581e6aa97f[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 10:29:54 2016 -0700
+
+    update docs
+
+[33mcommit 0c753b245c1bc8adb8c9128bb6957440abce4f66[m
+Merge: 7688c2d 09a142c
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 10:28:38 2016 -0700
+
+    Merge branch 'master' of github.com:kelseyhightower/kubernetes-the-hard-way
+
+[33mcommit 7688c2d7e39508b32d16a5f685df0c4527db15e7[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 10:28:27 2016 -0700
+
+    dry up the docs
+
+[33mcommit 09a142c27d2ecfbf04dc21a7c53e6df2a65ab1bc[m
+Merge: 4aaed8d bfd5554
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 10:27:27 2016 -0700
+
+    Merge pull request #4 from amouat/patch-1
+    
+    Update infrastructure.md
+
+[33mcommit 4aaed8d6580474dbd628c96a224dcc23dedfa67c[m
+Merge: b2b6360 0f8e4b0
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 10:27:15 2016 -0700
+
+    Merge pull request #5 from amouat/patch-2
+    
+    Update kubernetes-worker.md
+
+[33mcommit b2b6360e04bdcc6ef19bc8b242f9333c25f373c6[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 10:26:32 2016 -0700
+
+    dry up the docs
+
+[33mcommit 0f8e4b0e6a0fb99499cb7e9b7df4efdb9b3f6cb9[m
+Author: Adrian Mouat <adrian.mouat@gmail.com>
+Date:   Fri Jul 8 15:38:54 2016 +0100
+
+    Update kubernetes-worker.md
+    
+    Fix minor typo
+
+[33mcommit bfd5554bf51b89a296358c3892c220d694002761[m
+Author: Adrian Mouat <adrian.mouat@gmail.com>
+Date:   Fri Jul 8 15:28:40 2016 +0100
+
+    Update infrastructure.md
+    
+    Fix typo and add comma
+
+[33mcommit f93b2d609ed3ebd98dcced75abb4e6c4b9c337f8[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 04:37:03 2016 -0700
+
+    use individual release binaries
+
+[33mcommit 839dc6d3f90951be7dd2904dc170e50d13a54ffa[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Fri Jul 8 04:23:46 2016 -0700
+
+    use individual release binaries
+
+[33mcommit b3d45b48b62ab74f267261846a8b0d45a9ac94f8[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 17:40:57 2016 -0700
+
+    remove NamespaceExists, NamespaceLifecycle covers it
+
+[33mcommit 5079286b7c1c647e9ae01877b51bd4ddf11a0155[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 15:32:33 2016 -0700
+
+    update docs
+
+[33mcommit 6aa912343a58c96ae6aab2b20968f6d521f4fe20[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 15:32:18 2016 -0700
+
+    update docs
+
+[33mcommit d2701778ae587c61e80ca7ab47a7d9e15b0be735[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 15:26:05 2016 -0700
+
+    update docs
+
+[33mcommit 5a925e42c6b011349f13e924a833346a4e718dee[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 15:25:10 2016 -0700
+
+    update docs
+
+[33mcommit 1312245f23e00c82bd9c44b84e6a2c3d82ff43b5[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 15:23:01 2016 -0700
+
+    update docs
+
+[33mcommit 2c7e6f110256573e0973f36770a19f6f23cacd83[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 15:21:11 2016 -0700
+
+    update docs
+
+[33mcommit a0ac7f91a3f394e3383437b151cebf3bd1e13fa4[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 15:19:49 2016 -0700
+
+    update docs
+
+[33mcommit 9035b6f48d0146605984fd3ea987b26ed43343ee[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 15:19:34 2016 -0700
+
+    update docs
+
+[33mcommit b58da0a5ee9703d7799435340d1ee5fb76b2a07e[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 15:19:16 2016 -0700
+
+    update docs
+
+[33mcommit 518b15752c46663406c097d81edab275635beffd[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 15:14:24 2016 -0700
+
+    update docs
+
+[33mcommit a496e982f39137641edf73812e176aa4fdfeab7f[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 15:10:49 2016 -0700
+
+    update docs
+
+[33mcommit 938b2c233fcecbd8e12d4f1ca4d4801533e9192d[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 15:10:24 2016 -0700
+
+    update docs
+
+[33mcommit 53d18dd0c82373f491a7f0ac99a480c74d69ed1a[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 14:45:46 2016 -0700
+
+    update docs
+
+[33mcommit 03501e444365d2649783f0fc2ce312437feadbc9[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 14:41:05 2016 -0700
+
+    update docs
+
+[33mcommit 55cf5db8c269d949a4c45bdd58bba0102f6277ae[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 14:39:37 2016 -0700
+
+    update docs
+
+[33mcommit 3b9dad5c743bb87466cdaadd8318de64cd3ba7d8[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 14:37:13 2016 -0700
+
+    update docs
+
+[33mcommit b9a6697955a12806f46e83d09d74bc04917b2bf1[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 14:36:48 2016 -0700
+
+    update docs
+
+[33mcommit 432a8fafab147b025ad1d101088d78f526496f61[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 14:22:08 2016 -0700
+
+    update docs
+
+[33mcommit 6ebe83384eea297ddaf205262ef3a94f36922e66[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 14:15:06 2016 -0700
+
+    update docs
+
+[33mcommit 5b9a172378d1189cf9b74d99e162edcdaf7a4f5b[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 14:10:49 2016 -0700
+
+    update docs
+
+[33mcommit c30ed383a1f0b530a76a54e1ec9621710368ba6a[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 14:07:51 2016 -0700
+
+    update docs
+
+[33mcommit f48082ff8efff8432d9e3590cf0111915e8f1107[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 14:07:15 2016 -0700
+
+    update docs
+
+[33mcommit 7ab56dd2db8ac208fbb68c792d99a248df2ce7ef[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 14:06:24 2016 -0700
+
+    update docs
+
+[33mcommit d29217e5618d8f311648cb1e349f05774b5d54ca[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 14:02:57 2016 -0700
+
+    update docs
+
+[33mcommit 1786cb9cdc06d129ca965a1a549aa621079e4ece[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 14:01:55 2016 -0700
+
+    update docs
+
+[33mcommit 6c2ef4f8e545378bea871b37efa8920264afb9ce[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 13:56:22 2016 -0700
+
+    update docs
+
+[33mcommit b309d7a10cddaa39f6b7635baab15b49dee5fc3e[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 13:53:39 2016 -0700
+
+    update docs
+
+[33mcommit 5b6a646af47bfee2ece166210af27e694d7b05cf[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 13:48:12 2016 -0700
+
+    update docs
+
+[33mcommit a524f1d9c5366138d8d84e144e072f5e8eeac967[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 13:47:49 2016 -0700
+
+    update docs
+
+[33mcommit 3302cbdb3f49df6bff9f4afa0cd51578d95e4455[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 13:47:11 2016 -0700
+
+    update docs
+
+[33mcommit 6321c45cbc887131056a46956de82b0596f740c5[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 13:39:33 2016 -0700
+
+    update docs
+
+[33mcommit 7c8bbb93674604aaffac187ef55d9de3c5e2bddc[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 13:28:46 2016 -0700
+
+    update docs
+
+[33mcommit 722f61fd3d2138c565f7bb0b762451b85a95f158[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 13:27:04 2016 -0700
+
+    update docs
+
+[33mcommit b5658242159b8883fccd707b9baffa1bf25463ad[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 13:26:27 2016 -0700
+
+    update docs
+
+[33mcommit 6b2483b071959a47c9fd4cf959d2d51f2b2fca56[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 13:02:28 2016 -0700
+
+    update docs
+
+[33mcommit 25b3dbe932cd9969a06b1871c3db6007084c3268[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 12:43:47 2016 -0700
+
+    update docs
+
+[33mcommit fe0dcdd59d84878de93ae636ba4179a0a6057f8e[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 12:43:10 2016 -0700
+
+    update docs
+
+[33mcommit d86caf250fd3c3d8843bfe044da3be3925f344f6[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 12:41:32 2016 -0700
+
+    update docs
+
+[33mcommit 6521d427fc4bc5910a868f5252ebed10bebd7ff0[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 12:29:43 2016 -0700
+
+    update docs
+
+[33mcommit 21292f76cfb5dc9250750f79c98e83a2429fe6c9[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 12:23:30 2016 -0700
+
+    update docs
+
+[33mcommit 0b6bcd287f09b6545967c73e84aabf4a873e8a6f[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 11:44:03 2016 -0700
+
+    update docs
+
+[33mcommit 326c05db58a89a153c5d12510198b1862204b884[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 11:38:05 2016 -0700
+
+    update docs
+
+[33mcommit 5acba5405876a46f7e9a1706c9a766764de12278[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 11:37:54 2016 -0700
+
+    update docs
+
+[33mcommit dd8258143c0be3bddcad87d86ba145764c0cf9b7[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 11:00:56 2016 -0700
+
+    update docs
+
+[33mcommit 46bceba44264bf00adfc7fe2fc9224a759f883fb[m
+Merge: 438fd29 043b27d
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 10:59:33 2016 -0700
+
+    Merge branch 'master' of github.com:kelseyhightower/kubernetes-the-hard-way
+
+[33mcommit 438fd2984b9f5bc8e59a75917e9d7b5e15ba798a[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 10:59:14 2016 -0700
+
+    update docs
+
+[33mcommit 043b27d7fd99882466995988cb3c3e4b55936443[m
+Merge: 81bc43b 58c0140
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 10:24:11 2016 -0700
+
+    Merge pull request #1 from mblair/matt/typos
+    
+    fix some minor typos
+
+[33mcommit 81bc43b2da9254298c27d219e9a17b0b3320ab7b[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 10:23:45 2016 -0700
+
+    update docs
+
+[33mcommit 04c93cbe81169fcf25897b58544ad5968214a6f2[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 09:55:01 2016 -0700
+
+    update docs
+
+[33mcommit 58c0140f6f8c98660729fe42943278752b07dc24[m
+Author: Matt Blair <me@matthewblair.net>
+Date:   Thu Jul 7 08:54:19 2016 -0700
+
+    fix some typos
+
+[33mcommit c2cbe414dc7d0a25256d2c9379b49d58a2db9859[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 08:44:31 2016 -0700
+
+    update docs
+
+[33mcommit 1c7a56824ed087ec5c961fa00c4399233b334986[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 08:37:41 2016 -0700
+
+    update docs
+
+[33mcommit 813e186d91d39725e638731cd2e414f0f8a897eb[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 08:30:15 2016 -0700
+
+    update docs
+
+[33mcommit ee67a09af35a3621437a5f6d8562419a6196bb16[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 08:25:27 2016 -0700
+
+    update docs
+
+[33mcommit d849eced79be4214aef59700d11c80990f9c2c53[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 08:06:53 2016 -0700
+
+    update docs
+
+[33mcommit 4a485dd6be3d5425be69f734543ac4891ff45136[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 07:59:38 2016 -0700
+
+    update docs
+
+[33mcommit 905bfd6ea3c147d90915479c6ddb0c37cf97ae26[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 07:59:02 2016 -0700
+
+    update docs
+
+[33mcommit 2eb67b234da3413ee6e7bf3fd56ad0e175821cc2[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 07:57:18 2016 -0700
+
+    update docs
+
+[33mcommit 15e824c1afc895b962ca681b8e268403f98bf912[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 07:52:54 2016 -0700
+
+    update docs
+
+[33mcommit 5e5f0895c0b0e400b1fabb0bc7e46166e02e6fe4[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 07:49:56 2016 -0700
+
+    update docs
+
+[33mcommit 3e3109e93384d9038a8a30f766854c07306449f6[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 07:44:45 2016 -0700
+
+    update docs
+
+[33mcommit 30255330fef66c9b11ff922cf3ea7b0d213e2785[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 07:44:07 2016 -0700
+
+    update docs
+
+[33mcommit 1b0ca1eb841d280f86235e8a48bad374d7adc7a5[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 07:40:50 2016 -0700
+
+    update docs
+
+[33mcommit 61cc9be3f36e24ab0bf4e461256d500f0ee23fc8[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 07:28:48 2016 -0700
+
+    update docs
+
+[33mcommit ff52d37b1587b36065a44fa42b9df4b168d30ba5[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 07:27:23 2016 -0700
+
+    add links
+
+[33mcommit 9d7ace8b186f6ebd2e93e08265f3530ec2fba81c[m
+Author: Kelsey Hightower <kelsey.hightower@gmail.com>
+Date:   Thu Jul 7 07:15:59 2016 -0700
+
+    let the pain begin
