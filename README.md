@@ -1,9 +1,17 @@
 > Alishan Kazemzadeh
-
+salam aleykom
 
 > [www.google.com](https://www.google.com)
 
 > This tutorial is a modified version of the original developed by [Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way).
+
+```
+mkdir -p $GOPATH/src/k8s.io
+cd $GOPATH/src/k8s.io
+git clone https://github.com/kubernetes/kubernetes
+cd kubernetes
+make
+```
 
 # Kubernetes The Hard Way On VirtualBox
 
