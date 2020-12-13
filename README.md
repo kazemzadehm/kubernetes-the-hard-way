@@ -1,10 +1,6 @@
-<img src="https://en.wikipedia.org/wiki/GIF#/media/File:Rotating_earth_(large).gif" width="100">
 ----
-> Alishan Kazemzadeh
-salam aleykom
+salam
 ----
-
-> [www.google.com](https://www.google.com)
 
 > This tutorial is a modified version of the original developed by [Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way).
 
